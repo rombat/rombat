@@ -1,6 +1,6 @@
 ## 🤔 Who am I?
 
-Web dev and craft beer enthusiast 🍺
+Web dev and craft beer/zythology enthusiast 🍺
 
 I like building stuff that actually matters to users, scalable applications, and tackling technical challenges with creative solutions.
 
